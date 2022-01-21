@@ -1,6 +1,6 @@
-# Yet-Another-Auto-Trash-Mod
+# Auto-Trash
 
-Automatically discards a whitelist of items
+Tera Toolbox module to automatically discards a whitelist of items
 
 # Commands
 Note, if using the commands in the toolbox channel or `/8`, ignore the `!` prefix
