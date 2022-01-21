@@ -1,0 +1,16 @@
+{
+	"disableAutoUpdate": false,
+	"name": "auto-trash",
+	"author": "Snug",
+	"description": "Automatically discards a whitelist of items",
+	"version": "1",
+	"options": {
+		"guiName": "auto-trash",
+		"niceName": "auto-trash",
+		"settingsVersion": 1,
+		"settingsFile": "config.json",
+		"settingsMigrator": "config_generator.js"
+	},
+	"servers": ["https://raw.githubusercontent.com/Snugglez/Auto-Trash/main/"],
+	"supportUrl": "https://github.com/Snugglez/Auto-Trash/blob/main/README.md"
+}

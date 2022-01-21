@@ -1,0 +1,11 @@
+{
+	"files": {
+		"README.md": "b63a7a6fedcc039a9728d9be0ebd359b9a4ff34d54d7ccb89c5209db674176d9",
+		"config_generator.js": "16fcbbc7cdc2d5297658fe242504eea5dd30309fad85097b2fb7e91287e662d7",
+		"index.js": "5dfabbc3e064e49a357aabcd6c91b297b49929b9080651ac71e3a2dd77ed344d",
+		"module.json": "a3aa889db8c7938e0d34b39caa255eb9cff9c20d9d264382b75355ad8da72b3c"
+	},
+	"defs": {
+		"C_DEL_ITEM": 3
+	}
+}
